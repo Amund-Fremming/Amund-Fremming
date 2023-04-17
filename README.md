@@ -19,6 +19,4 @@
 
 ## Stats
 
-<a href="https://github.com/A599024/AmundFremming">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A599024&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
-</a>
+<img src="https://camo.githubusercontent.com/fbf4f4aadb79493225ed43d6daca84015eafa94d496ef07bbf723200e12f923c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" style="max-width: 100%;">
