@@ -2,7 +2,7 @@
 
 ## 🔧 Teknologier
 
-![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm-idea&logoColor=white&color=2bbc8a)<br>
+![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
