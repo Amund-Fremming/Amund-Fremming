@@ -15,4 +15,4 @@
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/amund-fremming/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amund-fremming&layout=donut)](https://github.com/amund-fremming/github-readme-stats)
