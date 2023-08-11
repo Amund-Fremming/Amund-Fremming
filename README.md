@@ -3,7 +3,7 @@
 🏗️ Glad i å lage ting <br/>
 🔥 Fan av Firebase <br/>
 🏎️ RedBull Racing <br/>
-🧖 <a href="https://fremminglabs-portfolio.web.app/">Min nettside</> <br/>
+🧖 <a href="https://fremminglabs-portfolio.web.app/">Min nettside</a> <br/>
 
 <hr/>
 
