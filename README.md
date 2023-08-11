@@ -14,5 +14,5 @@
 <hr/>
 
 ## Stats
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/amund-fremming/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablohs1986&theme=dracula" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/amund-fremming/github-readme-stats)
