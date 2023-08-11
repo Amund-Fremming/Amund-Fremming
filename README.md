@@ -1,9 +1,9 @@
 # AmundFremming
-🏫 24 år gammel dataingeniørstudent på HVL i Bergen <br/>
-🏗️ Glad i å lage ting <br/>
-🔥 Fan av Firebase <br/>
-🏎️ RedBull Racing <br/>
-🧖 <a href="https://fremminglabs-portfolio.web.app/">Min nettside</a> <br/>
+- 🏫 24 år gammel dataingeniørstudent på HVL i Bergen <br/>
+- 🏗️ Glad i å lage ting <br/>
+- 🔥 Fan av Firebase <br/>
+- 🏎️ RedBull Racing <br/>
+- 🧖 <a href="https://fremminglabs-portfolio.web.app/">Min nettside</a> <br/>
 
 <hr/>
 
