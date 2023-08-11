@@ -1,7 +1,7 @@
 # AmundFremming
-- 24 år gammel dataingeniørstudent på HVL i Bergen
-- Glad i å lage ting
-- Fan av Firebase
+- 🏫 24 år gammel dataingeniørstudent på HVL i Bergen
+- 🏗️ Glad i å lage ting
+- 🔥 Fan av Firebase
 
 <hr/>
 
