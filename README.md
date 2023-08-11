@@ -14,4 +14,6 @@
 <hr/>
 
 ## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablohs1986&theme=dracula" />
