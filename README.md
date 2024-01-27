@@ -42,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp" width="50" height="50"/>
   <img src="https://www.mykarsol.com/wp-content/uploads/2021/12/React-Native-Logo.png" alt="react-native" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/341805/expo.svg" alt="expo" width="50" height="50"/>
 </p>
 
 <hr/>
