@@ -1,6 +1,6 @@
 # AmundFremming
-- 🏫 24 år gammel dataingeniørstudent på HVL i Bergen <br/>
-- 🧖 <a href="https://fremmingdev.web.app/">Min nettside</a> <br/>
+- 24 år gammel dataingeniørstudent på HVL i Bergen <br/>
+- <a href="https://fremmingdev.web.app/">Min nettside</a> <br/>
 
 <hr/>
 
