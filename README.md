@@ -1,6 +1,8 @@
 # AmundFremming
 - 24 år gammel dataingeniørstudent på HVL i Bergen <br/>
-- <a href="https://fremmingdev.web.app/">Min nettside</a> <br/>
+- <a href="https://fremmingdev.web.app/">Portfolio</a> <br/>
+- IOS apper
+    - https://apps.apple.com/no/app/spike-drikkelek/id6477693860?l=nb
 
 <hr/>
 
