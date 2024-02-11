@@ -4,7 +4,7 @@
 Fun facts
 - <a href="https://fremmingdev.web.app/">Portfolio</a> <br/>
 - Mine IOS apper
-    - https://apps.apple.com/no/app/spike-drikkelek/id6477693860?l=nb
+    - [Spike](https://apps.apple.com/no/app/spike-drikkelek/id6477693860?l=nb)
 
 <hr/>
 
