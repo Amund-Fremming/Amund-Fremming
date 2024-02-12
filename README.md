@@ -49,6 +49,7 @@ Fun facts
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp" width="50" height="50"/>
   <img src="https://www.mykarsol.com/wp-content/uploads/2021/12/React-Native-Logo.png" alt="react-native" width="50" height="50"/>
   <img src="https://www.svgrepo.com/show/341805/expo.svg" alt="expo" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/azure/azure.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
 <hr/>
