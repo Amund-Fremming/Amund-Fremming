@@ -1,7 +1,7 @@
 ### Amund Fremming
 24 år gammel dataingeniør som går sitt siste år på dataingeniør linja på HVL i Bergen. Glad i å lage applikasjoner, software, og tools som gjør arbeidet mitt raskere.
 
-Fun facts
+Av meg
 - <a href="https://fremmingdev.web.app/">Portfolio</a> <br/>
 - Mine IOS apper
     - [Spike](https://apps.apple.com/no/app/spike-drikkelek/id6477693860?l=nb)
