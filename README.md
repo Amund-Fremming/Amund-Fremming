@@ -1,6 +1,8 @@
 ### Amund Fremming
 24 år gammel dataingeniør student. Glad i å lage applikasjoner, software, og tools som gjør arbeidet mitt raskere.
 
+<br>
+
 Av meg
 - <a href="https://fremmingdev.web.app/">Portfolio</a> <br/>
 - IOS apper
