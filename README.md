@@ -1,5 +1,5 @@
 ### Amund Fremming
-24 år gammel dataingeniør som går sitt siste år på dataingeniør linja på HVL i Bergen. Glad i å lage applikasjoner, software, og tools som gjør arbeidet mitt raskere.
+24 år gammel dataingeniør student. Glad i å lage applikasjoner, software, og tools som gjør arbeidet mitt raskere.
 
 Av meg
 - <a href="https://fremmingdev.web.app/">Portfolio</a> <br/>
