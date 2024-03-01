@@ -6,7 +6,7 @@
 Av meg
 - <a href="https://fremmingdev.web.app/">Portfolio</a> <br/>
 - IOS apper
-    - [Spike](https://apps.apple.com/no/app/spike-drikkelek/id6477693860?l=nb) (119 downloads)
+    - [Spike](https://apps.apple.com/no/app/spike-drikkelek/id6477693860?l=nb) (121 nedlastninger)
 - npm tools
     - [dotnet-raptor](https://www.npmjs.com/package/dotnet-raptor)
 
