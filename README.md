@@ -9,7 +9,7 @@ Av meg
     - [TreeNotes](https://apps.apple.com/no/app/treenotes/id6478814388?l=nb)
     - [Spike](https://apps.apple.com/no/app/spike-drikkelek/id6477693860?l=nb) (129 nedlastninger)
 - npm tools
-    - [dotnet-raptor](https://www.npmjs.com/package/dotnet-raptor)
+    - [dotnet-raptor](https://www.npmjs.com/package/dotnet-raptor) (ca. 500 nedlastninger)
 - [Neovim config](https://github.com/Amund-Fremming/nvim)
 
 
