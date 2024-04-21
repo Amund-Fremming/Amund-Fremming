@@ -7,7 +7,7 @@ Av meg
 - <a href="https://fremmingdev.web.app/">Portfolio</a>
 - [Neovim config](https://github.com/Amund-Fremming/nvim)
 - [Keyboard layout](https://configure.zsa.io/ergodox-ez/layouts/YVddv/latest/0)
-- IOS apper
+- iOS apper
     - [TreeNotes](https://apps.apple.com/no/app/treenotes/id6478814388?l=nb)
     - [Spike](https://apps.apple.com/no/app/spike-drikkelek/id6477693860?l=nb) downloads 151
 - npm tools
