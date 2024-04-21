@@ -4,7 +4,7 @@
 <br>
 
 Av meg
-- <a href="https://fremmingdev.web.app/">Portfolio</a> <br/>
+- <a href="https://fremmingdev.web.app/">Portfolio</a>
 - [Neovim config](https://github.com/Amund-Fremming/nvim)
 - [Keyboard layout](https://configure.zsa.io/ergodox-ez/layouts/YVddv/latest/0)
 - IOS apper
