@@ -8,7 +8,7 @@ Av meg
 - [Neovim config](https://github.com/Amund-Fremming/nvim)
 - [Keyboard layout](https://configure.zsa.io/ergodox-ez/layouts/YVddv/latest/0)
 - iOS apper
-    - [TreeNotes](https://apps.apple.com/no/app/treenotes/id6478814388?l=nb)
+    - [TreeNotes](https://apps.apple.com/no/app/treenotes/id6478814388?l=nb) unfinished
     - [Spike](https://apps.apple.com/no/app/spike-drikkelek/id6477693860?l=nb) downloads 160
 - npm tools
     - [dotnet-raptor](https://www.npmjs.com/package/dotnet-raptor) ![npm](https://img.shields.io/npm/dt/dotnet-raptor)
