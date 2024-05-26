@@ -51,5 +51,6 @@ Av meg
   <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Azure" width="40" height="40"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark
-)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF
+))
+
