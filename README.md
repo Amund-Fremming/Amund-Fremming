@@ -51,4 +51,4 @@ Av meg
   <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Azure" width="40" height="40"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amund-fremming&hide_progress=true)
