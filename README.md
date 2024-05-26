@@ -51,4 +51,4 @@ Av meg
   <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Azure" width="40" height="40"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amund-fremming)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amund-fremming)](https://github.com/anuraghazra/github-readme-stats)
