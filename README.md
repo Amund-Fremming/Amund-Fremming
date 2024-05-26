@@ -13,6 +13,9 @@ Av meg
 - npm tools
     - [dotnet-raptor](https://www.npmjs.com/package/dotnet-raptor) ![npm](https://img.shields.io/npm/dt/dotnet-raptor)
 
+<hr/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amund-fremming&hide_progress=true)
 
 <hr/>
 
@@ -62,5 +65,3 @@ Av meg
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amund-fremming&hide_progress=true)
