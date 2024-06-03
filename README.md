@@ -1,5 +1,5 @@
 ### Amund Fremming
-24 år gammel dataingeniørstudent. Glad i å lage applikasjoner, programvare, og verktøy som gjør arbeidet mitt raskere.
+25 år gammel dataingeniørstudent. Glad i å lage applikasjoner og programvare.
 
 <br>
 
