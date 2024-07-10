@@ -1,6 +1,6 @@
 ### Amund Fremming
-25 år gammel dataingeniørstudent.
-Glad i å lage applikasjoner og programvare.
+25 år gammel backend utvikler. <br />
+Glad i å lage applikasjoner og programvare. <br />
 Jobber for tiden med [WhoDat](https://github.com/Amund-Fremming/WhoDat).
 
 <br>
