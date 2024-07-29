@@ -1,7 +1,5 @@
 ### Amund Fremming
-25 år gammel backend utvikler. <br />
-Glad i å lage applikasjoner og programvare. <br />
-Jobber for tiden med [WhoDat](https://github.com/Amund-Fremming/WhoDat).
+25 år gammel backend utvikler.Glad i å lage applikasjoner og programvare. Jobber for tiden med [WhoDat](https://github.com/Amund-Fremming/WhoDat).
 
 <br>
 
