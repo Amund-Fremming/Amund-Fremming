@@ -12,8 +12,8 @@ Av meg
 - npm tools
     - [dotnet-raptor](https://www.npmjs.com/package/dotnet-raptor) ![npm](https://img.shields.io/npm/dt/dotnet-raptor)
 - iOS apper
-    - [TreeNotes](https://apps.apple.com/no/app/treenotes/id6478814388?l=nb) unfinished
-    - [Spike](https://apps.apple.com/no/app/spike-drikkelek/id6477693860?l=nb) downloads 160
+    - [TreeNotes](https://apps.apple.com/no/app/treenotes/id6478814388?l=nb) downloads 165
+    - [Spike](https://apps.apple.com/no/app/spike-drikkelek/id6477693860?l=nb) downloads 185
 
 <hr/>
 
