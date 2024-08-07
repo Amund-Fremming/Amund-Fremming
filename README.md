@@ -11,4 +11,5 @@ Av meg
     - [TreeNotes](https://apps.apple.com/no/app/treenotes/id6478814388?l=nb) downloads 165
     - [Spike](https://apps.apple.com/no/app/spike-drikkelek/id6477693860?l=nb) downloads 185
 <hr/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amund-fremming&hide_progress=true)
