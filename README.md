@@ -2,7 +2,6 @@
 25 år gammel backend utvikler. Glad i å lage applikasjoner og programvare. Jobber for tiden med [WhoDat](https://github.com/Amund-Fremming/WhoDat).
 <br>
 Av meg
-- <a href="https://fremmingdev.web.app/">Portfolio</a>
 - [Keyboard layout](https://configure.zsa.io/ergodox-ez/layouts/YVddv/latest/0)
 - npm tools
     - [dotnet-raptor](https://www.npmjs.com/package/dotnet-raptor) ![npm](https://img.shields.io/npm/dt/dotnet-raptor)
