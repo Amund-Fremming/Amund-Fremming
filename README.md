@@ -3,7 +3,6 @@
 <br>
 Av meg
 - <a href="https://fremmingdev.web.app/">Portfolio</a>
-- [Neovim config](https://github.com/Amund-Fremming/nvim)
 - [Keyboard layout](https://configure.zsa.io/ergodox-ez/layouts/YVddv/latest/0)
 - npm tools
     - [dotnet-raptor](https://www.npmjs.com/package/dotnet-raptor) ![npm](https://img.shields.io/npm/dt/dotnet-raptor)
