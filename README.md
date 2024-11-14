@@ -1,8 +1,8 @@
 ### Amund Fremming
 Backend consultant
 <br />
-- [TreeNotes](https://apps.apple.com/no/app/treenotes/id6478814388?l=nb) downloads
-- [Spike](https://apps.apple.com/no/app/spike-drikkelek/id6477693860?l=nb) downloads
+- [TreeNotes](https://apps.apple.com/no/app/treenotes/id6478814388?l=nb) (iOS)
+- [Spike](https://apps.apple.com/no/app/spike-drikkelek/id6477693860?l=nb) (iOS)
 - [dotnet-raptor](https://www.npmjs.com/package/dotnet-raptor) ![npm](https://img.shields.io/npm/dt/dotnet-raptor)
 - [troodon](https://github.com/Amund-Fremming/troodon)
   - NuGet![NuGet Downloads](https://img.shields.io/nuget/dt/troodon.svg)
