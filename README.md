@@ -1,2 +1,3 @@
 ### Amund Fremming
-Backend consultant
+- Backend consultant
+- Currently learning rust
