@@ -1,2 +1,2 @@
 ### Amund Fremming
-- Backend consultant
+- developer
