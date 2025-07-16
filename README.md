@@ -2,7 +2,7 @@
 
 I'm a backend-leaning software engineer with a strong foundation in C#, .NET, EF Core, and PostgreSQL. I also work comfortably with TypeScript and occasionally dip into React and React Native when the project calls for it.
 
-Right now, I'm exploring **Rust**—interested in its performance, safety, and how it challenges my way of thinking about systems.
+Right now, I'm exploring **Rust** and **Golang** to deepen my knowledge.
 
 I'm driven by clean architecture, clear abstractions, and tools that make teams move faster. Whether it’s designing APIs, writing database queries, or debugging edge cases, I enjoy being deep in the engine room of real-world systems.
 
