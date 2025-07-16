@@ -4,7 +4,7 @@ I'm a backend-leaning software engineer with a strong foundation in C#, .NET, EF
 
 Right now, I'm exploring **Rust** and **Golang** to deepen my knowledge.
 
-I'm driven by clean architecture, clear abstractions, and tools that make teams move faster. Whether it’s designing APIs, writing database queries, or debugging edge cases, I enjoy being deep in the engine room of real-world systems.
+I'm driven by clean architecture, clear abstractions, tools that make teams move faster, and curiosity.
 
 ---
 
