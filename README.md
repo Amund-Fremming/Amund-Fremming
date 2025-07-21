@@ -10,12 +10,9 @@ I'm driven by clean architecture, clear abstractions, tools that make teams move
 
 🛠️ **What I like working with:**
 - C#, .NET, EF Core, PostgreSQL  
-- TypeScript, React (and React Native when I’m feeling spicy)  
+- TypeScript, React Native if i need something visual  
 - Rust (currently learning)  
-- Building projects from scratch—code that *actually runs*
 
 ---
 
 📌 Check out my pinned projects below for a few things I’ve built recently.
-
-If you want to chat or collaborate, feel free to connect.
