@@ -4,7 +4,7 @@ Just a developer who enjoys learning and building. I like exploring new tools, e
 
 <br>
 
-**What I like working with:**
+What I like working with
 - C#, .NET, EF Core, PostgreSQL  
 - TypeScript, React Native if i need something visual  
 - Rust (currently learning)  
