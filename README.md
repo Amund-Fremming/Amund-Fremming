@@ -2,7 +2,7 @@
 Just a developer who enjoys learning and building. Currently going deep with Rust.
 
 Try my apps
-— [tero](https://apps.apple.com/us/app/tero/id6761649683)
+- [tero](https://apps.apple.com/us/app/tero/id6761649683)
 - [beerio](https://apps.apple.com/us/app/beerio-beer-tracker/id6764085648)
 
 <br>
